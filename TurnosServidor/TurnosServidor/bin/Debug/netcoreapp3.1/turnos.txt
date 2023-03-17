@@ -1,0 +1,20 @@
+-----TURNO-------
+Turno ID: 1
+Usuario: Reyn
+Fecha: 25/3/2023 00:00:00
+-------------------
+-----TURNO-------
+Turno ID: 2
+Usuario: Pepardo
+Fecha: 6/11/2023 00:00:00
+-------------------
+-----TURNO-------
+Turno ID: 3
+Usuario: dqw
+Fecha: 16/7/2023 00:00:00
+-------------------
+-----TURNO-------
+Turno ID: 4
+Usuario: Pardhino
+Fecha: 3/8/2023 00:00:00
+-------------------

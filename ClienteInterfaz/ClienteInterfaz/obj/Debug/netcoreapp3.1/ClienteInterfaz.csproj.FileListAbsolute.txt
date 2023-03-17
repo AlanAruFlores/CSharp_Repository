@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.exe
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.deps.json
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.runtimeconfig.json
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.dll
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\bin\Debug\netcoreapp3.1\ClienteInterfaz.pdb
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.dll
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.pdb
+C:\Users\Usuario\source\repos\ClienteInterfaz\ClienteInterfaz\obj\Debug\netcoreapp3.1\ClienteInterfaz.genruntimeconfig.cache

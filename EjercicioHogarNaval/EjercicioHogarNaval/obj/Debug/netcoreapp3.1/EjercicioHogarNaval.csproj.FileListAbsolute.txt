@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.exe
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.deps.json
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.dll
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\bin\Debug\netcoreapp3.1\EjercicioHogarNaval.pdb
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.dll
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.pdb
+C:\Users\Usuario\source\repos\EjercicioHogarNaval\EjercicioHogarNaval\obj\Debug\netcoreapp3.1\EjercicioHogarNaval.genruntimeconfig.cache

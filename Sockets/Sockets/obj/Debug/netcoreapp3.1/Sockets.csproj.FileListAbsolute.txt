@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.exe
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.deps.json
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.dll
+C:\Users\Usuario\source\repos\Sockets\Sockets\bin\Debug\netcoreapp3.1\Sockets.pdb
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.dll
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.pdb
+C:\Users\Usuario\source\repos\Sockets\Sockets\obj\Debug\netcoreapp3.1\Sockets.genruntimeconfig.cache

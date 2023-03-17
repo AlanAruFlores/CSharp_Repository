@@ -1,0 +1,2 @@
+wqd: exit
+qdw: exit

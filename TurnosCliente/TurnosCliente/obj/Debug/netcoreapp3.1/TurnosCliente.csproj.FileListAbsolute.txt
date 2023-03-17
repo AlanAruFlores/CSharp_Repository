@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.exe
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.deps.json
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.runtimeconfig.json
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.dll
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\bin\Debug\netcoreapp3.1\TurnosCliente.pdb
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.dll
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.pdb
+C:\Users\Usuario\source\repos\TurnosCliente\TurnosCliente\obj\Debug\netcoreapp3.1\TurnosCliente.genruntimeconfig.cache

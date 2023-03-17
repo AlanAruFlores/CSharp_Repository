@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+C:\Users\Usuario\source\repos\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+C:\Users\Usuario\source\repos\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache

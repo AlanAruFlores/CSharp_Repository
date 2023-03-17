@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.exe
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.deps.json
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.dll
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\bin\Debug\netcoreapp3.1\Ayudita.pdb
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.dll
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.pdb
+C:\Users\Usuario\source\repos\Ayudita\Ayudita\obj\Debug\netcoreapp3.1\Ayudita.genruntimeconfig.cache
